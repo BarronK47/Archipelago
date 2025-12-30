@@ -70,6 +70,9 @@ Double-click on your `.apz5` file to start your client and start the ROM patch p
 (this can take a while), the client and the emulator will be started automatically (if you associated the extension
 to the emulator as recommended).
 
+If the `.apz5` file type is not associated with the Archipelago client (often the case with Linux) use `Open With`
+to navigate to and select the `ArchipelagoOoTClient` in the root of the `Archipelago` directory.
+
 ### Connect to the Multiserver
 
 Once both the client and the emulator are started, you must connect them. Navigate to your Archipelago install folder,
